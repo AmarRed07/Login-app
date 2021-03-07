@@ -4,8 +4,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   const adminUser = {
-    email: "givemeanA@please.com",
-    password: "givemeanA"
+    email: "givemeAnA@please.com",
+    password: "yougetanA"
   }
 
   const [user, setUser] = useState({name: "", email: ""});
